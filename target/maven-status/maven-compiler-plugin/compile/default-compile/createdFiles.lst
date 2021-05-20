@@ -1,0 +1,15 @@
+kbs\katefidis\services\OrderService.class
+kbs\katefidis\entities\User.class
+kbs\katefidis\controllers\UserController.class
+kbs\katefidis\repositories\OrderRepository.class
+kbs\katefidis\entities\Product.class
+kbs\katefidis\services\UserService.class
+kbs\katefidis\repositories\OrderProductRepository.class
+kbs\katefidis\controllers\ProductController.class
+kbs\katefidis\MainApplication.class
+kbs\katefidis\entities\Order.class
+kbs\katefidis\repositories\UserRepository.class
+kbs\katefidis\controllers\OrderController.class
+kbs\katefidis\services\ProductService.class
+kbs\katefidis\entities\OrderProduct.class
+kbs\katefidis\repositories\ProductRepository.class
